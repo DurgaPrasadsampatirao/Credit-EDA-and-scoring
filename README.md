@@ -2,9 +2,6 @@
 
 ## Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) and building a credit scoring model using a dataset with various financial and demographic features. The goal is to analyze customer credit profiles, identify key risk factors, and develop a predictive model to estimate a hypothetical credit score based on the dataset.
----
-## Project Overview
-This project focuses on performing Exploratory Data Analysis (EDA) and building a credit scoring model using a dataset with various financial and demographic features. The goal is to analyze customer credit profiles, identify key risk factors, and develop a predictive model to estimate a hypothetical credit score based on the dataset.
 
 Project link: [Credit EDA & Scoring Project](https://colab.research.google.com/drive/1861CsbKxc3uuSpLnYEFTj5wduqj0Lre3?usp=sharing)
 
